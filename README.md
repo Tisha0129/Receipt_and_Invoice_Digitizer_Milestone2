@@ -1,3 +1,6 @@
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 📌 Milestone 2: Field Extraction & Validation
 📖 Overview
 
